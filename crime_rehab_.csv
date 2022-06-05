@@ -1,0 +1,503 @@
+Age,Gender,Education level,Living area,Family type,Grown up by,Living with family,Residency,Economic status,Relationship between father & mother,Relationship with family,Following regular routine,Addicted person in family,Declining health,Alexithymia,Getting excessive money than needed,Victim of physical/mental torture,Depressed,Surrounding environment & companions,Have an drug peddler friend,Target to rich overnight,Staying out all night,Having focus on study,Habit of telling lie,Aggressive nature,Habit of fighting,Usage rate of cellphone,Visits & watches prohibited sites,Smoking habit,Stealing money,Commit crime
+15,male,after S.S.C,city,nuclear family,maid servant,yes,home,upper,bad,bad,no,yes,yes,no,yes,no,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+16,female,after S.S.C,city,broken family,maid servant,yes,home,upper,bad,good,somehow,no,yes,yes,no,yes,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,average,no,yes,no,yes
+16,female,never went to school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,yes,extreme,no,no,no,no
+15,male,high school,village,broken family,maid servant,no,home,upper,bad,good,yes,no,yes,no,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,average,no,yes,yes,yes
+13,male,high school,city,no family,none,no,slum,lower,bad,no relation,somehow,no,no,yes,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+13,male,high school,village,nuclear family,guardian,yes,home,middle,good,bad,yes,yes,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,no,no,no,doesn't use,no,no,no,no
+15,male,high school,city,nuclear family,none,no,home,upper,good,no relation,yes,no,yes,yes,no,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,no,extreme,yes,yes,no,yes
+16,male,college,city,joint family,guardian,yes,home,middle,good,good,no,no,no,no,yes,no,yes,good,no,no,spending time by taking drugs,yes,no,no,no,average,no,no,no,no
+16,male,after S.S.C,city,nuclear family,maid servant,no,home,middle,good,good,yes,no,no,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,average,no,yes,no,no
+15,male,never went to school,city,joint family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,no,no,yes,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,doesn't use,yes,yes,yes,yes
+15,male,after S.S.C,city,broken family,guardian,no,home,upper,bad,good,yes,yes,yes,yes,yes,no,no,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,no,yes,yes,yes
+14,male,never went to school,village,joint family,guardian,yes,home,lower,bad,bad,somehow,no,no,no,no,yes,yes,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,doesn't use,no,yes,no,no
+16,male,college,city,nuclear family,guardian,no,home,middle,good,good,no,yes,yes,no,yes,no,no,bad,yes,no,spending time by taking drugs,yes,no,yes,yes,average,no,yes,no,yes
+15,female,high school,city,nuclear family,guardian,yes,home,upper,good,bad,yes,no,yes,no,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,no,average,yes,yes,yes,yes
+16,male,never went to school,city,nuclear family,none,no,home,lower,good,bad,somehow,yes,no,yes,no,no,yes,bad,no,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+15,male,after S.S.C,city,nuclear family,guardian,yes,home,upper,good,no relation,no,no,yes,no,no,yes,yes,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,extreme,yes,yes,no,no
+15,male,high school,city,joint family,guardian,yes,home,middle,good,bad,no,yes,no,yes,yes,yes,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+17,male,college,city,nuclear family,guardian,yes,home,middle,bad,bad,no,no,yes,no,no,yes,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+14,female,high school,city,nuclear family,maid servant,yes,home,upper,bad,bad,somehow,yes,yes,no,yes,no,no,bad,yes,yes,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,yes
+13,male,never went to school,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,no,no,yes,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+18,male,after S.S.C,city,broken family,none,no,home,middle,good,good,yes,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,yes,no,no,no
+17,male,college,city,broken family,maid servant,yes,home,upper,bad,bad,yes,yes,yes,yes,yes,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+16,male,high school,village,joint family,guardian,yes,home,lower,good,good,yes,no,no,no,no,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,doesn't use,no,yes,no,no
+18,male,college,village,broken family,guardian,yes,home,middle,no relation,no relation,somehow,yes,yes,no,no,yes,no,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,no,yes,yes,yes
+15,male,high school,city,broken family,none,yes,home,upper,bad,bad,no,no,yes,no,yes,no,no,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,no
+15,male,high school,city,nuclear family,maid servant,yes,home,upper,bad,good,yes,no,yes,yes,yes,no,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,no,yes,no,yes
+16,male,never went to school,city,no family,none,yes,slum,lower,good,bad,somehow,no,yes,no,no,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+18,female,never went to school,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,female,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,average,no,no,no,no
+15,female,after S.S.C,city,nuclear family,guardian,no,home,middle,good,good,yes,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,yes,average,yes,no,no,no
+16,female,after S.S.C,city,nuclear family,guardian,yes,home,upper,good,good,no,no,no,yes,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,yes,no,no,extreme,no,no,no,no
+18,male,after S.S.C,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,yes,no,no,no,no,good,no,yes,by playing/watching tv/travelling with family & friends,no,no,yes,no,average,no,yes,no,no
+15,female,after S.S.C,city,joint family,guardian,yes,home,middle,good,good,yes,no,yes,yes,no,yes,yes,good,no,no,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,extreme,no,no,no,no
+17,female,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,no,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+16,male,never went to school,city,nuclear family,guardian,no,slum,working,good,bad,somehow,no,yes,no,no,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+15,male,high school,city,nuclear family,guardian,no,slum,lower,bad,no relation,somehow,yes,yes,yes,no,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+15,female,after S.S.C,city,nuclear family,guardian,yes,home,upper,bad,bad,yes,no,yes,no,yes,yes,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,no,no
+16,male,after S.S.C,city,broken family,maid servant,yes,home,upper,no relation,bad,no,no,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+16,male,after S.S.C,city,broken family,guardian,yes,home,upper,bad,good,yes,yes,yes,no,yes,no,no,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+15,male,high school,city,nuclear family,maid servant,yes,home,upper,bad,bad,somehow,yes,yes,yes,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+15,female,after S.S.C,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,no,no,no,no
+14,female,high school,city,broken family,maid servant,yes,home,upper,no relation,bad,no,yes,no,no,yes,no,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+18,male,college,city,broken family,maid servant,yes,home,upper,bad,bad,somehow,yes,yes,no,yes,yes,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,yes,yes,no,yes,good,no,yes,spending time by taking drugs,yes,no,no,no,average,yes,no,yes,no
+18,male,after S.S.C,village,nuclear family,guardian,yes,home,lower,good,good,no,yes,yes,no,no,no,no,bad,yes,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,yes,yes,yes
+16,male,after S.S.C,village,nuclear family,guardian,yes,home,middle,good,good,yes,yes,yes,yes,yes,no,yes,good,no,yes,spending time by taking drugs,yes,no,no,no,average,yes,no,no,no
+18,male,college,city,nuclear family,guardian,yes,home,middle,good,bad,yes,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,male,after S.S.C,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,yes,yes,no,no,good,no,yes,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+18,male,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,yes,yes,no,yes,no,no,yes,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,average,no,no,no,no
+18,male,after S.S.C,village,joint family,guardian,no,home,lower,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,extreme,no,no,no,no
+15,male,high school,city,nuclear family,guardian,yes,home,middle,bad,bad,no,yes,yes,no,no,yes,yes,bad,yes,yes,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,city,joint family,guardian,yes,home,upper,good,good,yes,yes,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,bad,yes,yes,yes,yes,no,yes,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,yes,yes,no,average,no,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,no,yes,no,no
+17,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,yes,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,no,no,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,yes,average,yes,no,no,no
+16,male,high school,city,nuclear family,guardian,no,home,middle,good,good,yes,no,no,yes,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,college,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+16,male,after S.S.C,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,yes
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,yes,average,yes,no,no,no
+16,male,high school,city,no family,guardian,yes,home,upper,good,good,yes,yes,no,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,yes,no,no,average,yes,yes,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,yes,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,yes,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+17,male,college,city,nuclear family,maid servant,yes,home,upper,good,good,somehow,no,no,no,yes,no,no,bad,yes,yes,by playing/watching tv/travelling with family & friends,yes,yes,yes,yes,average,yes,yes,no,yes
+17,male,college,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,yes,yes,yes,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,yes,no,no
+16,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,yes,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,college,city,nuclear family,guardian,yes,home,upper,good,bad,yes,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,doesn't use,no,no,no,no
+16,male,college,city,nuclear family,guardian,yes,home,upper,bad,bad,somehow,yes,yes,yes,yes,no,no,bad,no,yes,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,yes
+17,male,college,city,nuclear family,guardian,yes,home,upper,good,good,no,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,college,city,nuclear family,guardian,no,home,middle,good,good,yes,yes,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,college,city,nuclear family,guardian,yes,home,middle,good,good,somehow,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,extreme,yes,no,no,no
+17,male,after S.S.C,city,nuclear family,maid servant,yes,home,upper,good,bad,yes,yes,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+16,male,college,city,nuclear family,guardian,yes,home,middle,good,bad,yes,yes,yes,yes,yes,no,no,bad,no,yes,by playing/watching tv/travelling with family & friends,yes,yes,yes,yes,average,yes,yes,no,yes
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,college,city,nuclear family,guardian,yes,home,upper,good,good,yes,yes,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,yes,no,yes,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,yes,average,no,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,yes,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,yes,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,average,yes,yes,no,no
+17,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,yes,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,no,no,no,average,no,no,no,no
+16,male,college,city,nuclear family,none,yes,home,upper,bad,good,no,yes,no,no,yes,yes,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+17,male,college,city,broken family,guardian,yes,home,upper,bad,bad,yes,yes,yes,yes,yes,no,no,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+17,male,after S.S.C,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,yes,no,yes,no,no,bad,no,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+17,male,college,city,broken family,maid servant,yes,home,upper,good,bad,yes,yes,yes,yes,yes,no,no,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+17,male,high school,city,nuclear family,guardian,no,home,middle,good,bad,no,yes,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+17,male,college,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,no,no,no,average,no,no,no,no
+18,female,never went to school,village,joint family,guardian,yes,home,middle,good,good,yes,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,male,college,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,male,college,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,yes,no,no
+17,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,after S.S.C,city,nuclear family,guardian,yes,home,upper,good,no relation,no,yes,yes,no,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,college,city,broken family,guardian,yes,home,upper,bad,good,somehow,yes,yes,yes,yes,no,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+17,male,after S.S.C,city,nuclear family,maid servant,yes,home,upper,good,good,somehow,no,no,yes,yes,no,no,bad,yes,yes,spending time by taking drugs,no,no,yes,yes,average,yes,yes,no,yes
+17,male,after S.S.C,city,broken family,guardian,no,home,upper,bad,bad,yes,yes,yes,yes,yes,yes,yes,bad,yes,no,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,yes
+18,male,college,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,yes,no
+18,female,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,yes,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,yes,extreme,yes,no,no,no
+18,female,college,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,male,college,city,nuclear family,guardian,no,home,middle,good,good,yes,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+18,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,yes,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,average,no,no,no,no
+18,male,college,village,joint family,guardian,yes,home,middle,good,good,yes,yes,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,female,college,city,nuclear family,guardian,no,home,middle,good,good,yes,no,yes,yes,no,no,yes,good,no,no,spending time by taking drugs,yes,yes,no,no,average,no,no,no,no
+18,female,college,city,broken family,guardian,yes,home,middle,good,good,somehow,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,yes,average,no,no,no,no
+18,male,college,village,joint family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,male,college,city,broken family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,average,no,no,no,no
+18,male,college,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,yes,no,no
+17,male,college,village,nuclear family,guardian,yes,home,middle,good,good,somehow,no,yes,yes,no,no,no,good,no,yes,by playing/watching tv/travelling with family & friends,yes,yes,no,no,average,no,no,no,yes
+18,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+18,male,college,city,joint family,guardian,no,home,middle,good,good,yes,yes,yes,no,no,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,yes,average,no,yes,no,no
+18,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,college,village,joint family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,male,college,city,nuclear family,guardian,yes,home,middle,good,good,somehow,no,no,yes,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,yes,yes,no,average,no,yes,no,no
+18,male,high school,city,nuclear family,guardian,no,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,yes,no,no
+18,male,college,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,yes,no,yes,no,no,good,no,yes,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,yes
+16,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+14,male,high school,city,broken family,guardian,yes,home,middle,good,good,yes,yes,yes,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,no,no,no,extreme,no,no,no,no
+14,female,high school,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,no,no,no,extreme,no,no,no,no
+14,male,high school,city,nuclear family,maid servant,yes,home,upper,good,bad,yes,no,yes,no,yes,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,no,no,yes,no,extreme,no,yes,no,no
+17,male,after S.S.C,city,nuclear family,guardian,yes,home,middle,bad,bad,no,yes,yes,yes,no,yes,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+14,female,high school,city,nuclear family,maid servant,yes,home,upper,bad,bad,yes,no,yes,no,yes,yes,yes,bad,yes,yes,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,yes
+14,male,never went to school,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,no,no,no,yes,yes,bad,yes,yes,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,average,yes,yes,yes,yes
+18,female,after S.S.C,city,broken family,guardian,yes,home,middle,good,good,yes,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,yes,no,no,no
+16,female,high school,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,yes,no,yes,good,yes,yes,spending time by taking drugs,yes,no,no,no,average,yes,no,yes,no
+18,male,after S.S.C,village,nuclear family,guardian,yes,home,upper,good,bad,no,yes,yes,yes,no,no,yes,bad,yes,no,spending time by taking drugs,yes,no,yes,no,average,yes,yes,yes,yes
+16,male,high school,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,yes,no,no,good,no,yes,spending time by taking drugs,yes,no,no,no,average,yes,no,yes,no
+18,male,after S.S.C,city,joint family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,male,after S.S.C,village,joint family,guardian,yes,home,middle,good,good,somehow,no,no,no,yes,no,no,good,no,yes,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+18,female,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,yes,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,average,no,yes,no,no
+18,male,after S.S.C,village,joint family,guardian,no,home,lower,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,extreme,no,no,no,no
+16,male,college,city,broken family,guardian,yes,home,middle,bad,good,no,yes,yes,no,yes,yes,no,bad,yes,no,spending time by taking drugs,no,no,yes,yes,average,no,yes,no,yes
+17,male,after S.S.C,city,nuclear family,guardian,yes,home,upper,good,bad,no,no,yes,no,yes,no,no,bad,yes,yes,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,yes
+18,male,college,city,nuclear family,guardian,yes,home,upper,good,good,yes,yes,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,yes,yes,no,no
+18,male,college,village,nuclear family,guardian,no,home,middle,good,good,yes,yes,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,yes,yes,no,no
+17,male,college,village,nuclear family,guardian,yes,home,middle,good,good,yes,yes,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,male,college,city,nuclear family,guardian,yes,home,upper,good,good,somehow,yes,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,yes,no,no,average,no,no,no,no
+14,female,high school,city,broken family,maid servant,yes,home,upper,good,bad,no,yes,yes,yes,yes,yes,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,female,college,city,broken family,guardian,yes,home,upper,bad,bad,no,no,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,no,extreme,yes,yes,no,yes
+17,male,never went to school,city,nuclear family,guardian,no,slum,lower,bad,bad,somehow,no,no,no,no,yes,no,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,no,yes,yes,yes
+16,male,after S.S.C,city,no family,none,yes,home,middle,no relation,bad,no,yes,yes,yes,yes,yes,yes,bad,yes,no,spending time by taking drugs,no,no,yes,yes,extreme,no,yes,yes,yes
+16,male,never went to school,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,no,no,no,yes,yes,good,no,yes,spending time by taking drugs,yes,yes,yes,yes,doesn't use,no,no,no,no
+13,male,never went to school,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,no,no,no,yes,no,bad,no,yes,by playing/watching tv/travelling with family & friends,no,no,no,yes,doesn't use,no,yes,no,no
+14,male,high school,city,joint family,guardian,yes,home,middle,good,bad,no,yes,yes,no,no,yes,no,bad,yes,yes,spending time by taking drugs,no,yes,yes,no,average,no,yes,yes,yes
+17,female,high school,village,nuclear family,guardian,yes,home,middle,good,good,yes,yes,yes,yes,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,extreme,yes,no,no,no
+17,male,college,village,nuclear family,guardian,yes,home,middle,good,good,somehow,yes,no,no,no,no,no,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,no,yes
+15,male,after S.S.C,city,broken family,guardian,no,home,middle,bad,good,yes,no,no,yes,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,average,no,yes,no,no
+15,male,after S.S.C,city,nuclear family,maid servant,yes,home,upper,good,bad,yes,no,no,yes,yes,yes,yes,good,no,no,spending time by taking drugs,no,no,yes,no,average,yes,yes,no,no
+15,male,college,city,nuclear family,guardian,yes,home,middle,good,bad,yes,yes,yes,no,no,yes,yes,bad,no,no,spending time by taking drugs,no,yes,no,no,average,yes,yes,yes,yes
+16,female,college,city,nuclear family,guardian,yes,home,upper,good,bad,no,yes,yes,yes,yes,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,no,no,average,no,no,no,no
+17,male,never went to school,city,nuclear family,guardian,no,slum,lower,bad,bad,no,no,yes,no,no,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,no,average,yes,yes,no,yes
+17,female,college,village,joint family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,yes,average,yes,no,no,no
+16,male,college,city,broken family,guardian,yes,home,upper,no relation,good,no,yes,yes,yes,yes,yes,no,bad,no,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+14,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,no,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,no,yes,yes,average,no,no,no,no
+15,male,after S.S.C,city,joint family,guardian,yes,home,middle,good,good,no,yes,yes,yes,no,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+15,male,high school,city,nuclear family,guardian,yes,home,middle,bad,bad,yes,yes,yes,yes,no,yes,yes,bad,yes,yes,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,city,joint family,guardian,yes,home,upper,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+14,female,college,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,yes,no,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+18,male,after S.S.C,city,broken family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,yes,no,no,no
+17,male,after S.S.C,city,broken family,maid servant,yes,home,lower,bad,bad,somehow,no,yes,no,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+16,male,high school,village,joint family,guardian,yes,home,lower,good,good,yes,no,no,no,no,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,doesn't use,no,yes,no,no
+18,male,college,city,broken family,guardian,yes,home,middle,no relation,no relation,somehow,yes,yes,no,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,no,yes,yes,yes
+15,male,high school,city,broken family,guardian,yes,home,upper,bad,good,no,no,yes,yes,yes,no,no,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+15,female,high school,city,nuclear family,maid servant,yes,home,upper,bad,good,yes,yes,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,no,yes,no,no
+16,male,never went to school,city,no family,none,yes,slum,lower,good,bad,somehow,no,no,no,no,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+18,female,college,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+15,male,after S.S.C,city,nuclear family,maid servant,yes,home,upper,bad,bad,no,yes,yes,yes,yes,no,no,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+16,female,after S.S.C,city,broken family,maid servant,yes,home,upper,bad,bad,no,yes,yes,no,yes,yes,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,average,no,yes,no,yes
+16,female,never went to school,city,nuclear family,guardian,yes,home,middle,good,good,no,no,yes,yes,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,yes,extreme,no,no,no,no
+15,male,high school,village,broken family,maid servant,yes,home,upper,bad,no relation,no,no,yes,yes,yes,yes,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,average,no,yes,yes,yes
+14,male,high school,city,no family,none,no,slum,lower,bad,good,somehow,no,no,no,no,yes,yes,bad,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+13,male,high school,village,nuclear family,guardian,yes,home,middle,good,bad,yes,yes,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,no,no,no,doesn't use,no,no,no,no
+15,male,high school,city,nuclear family,none,no,home,lower,good,no relation,somehow,yes,yes,no,no,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+18,male,college,city,joint family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,high school,city,joint family,guardian,yes,home,upper,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+15,male,high school,city,nuclear family,guardian,no,home,upper,good,bad,yes,no,no,no,no,yes,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,yes,yes,no,average,no,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,no,yes,no,no
+17,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,yes,average,yes,no,no,no
+16,male,high school,city,nuclear family,guardian,no,home,middle,good,good,yes,no,no,yes,yes,no,no,good,no,yes,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,yes,no,yes
+17,male,college,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+15,male,never went to school,village,broken family,guardian,yes,home,middle,good,bad,no,no,yes,no,yes,yes,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+17,male,college,city,nuclear family,guardian,yes,home,middle,bad,bad,no,yes,yes,yes,no,yes,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+14,female,high school,city,nuclear family,maid servant,yes,home,upper,bad,bad,yes,yes,yes,no,yes,no,yes,bad,yes,yes,spending time by taking drugs,no,no,no,yes,average,yes,yes,no,no
+13,male,high school,village,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,yes,no,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,no,yes,yes,yes
+18,male,never went to school,city,broken family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,no,no,no,no
+17,male,after S.S.C,city,broken family,maid servant,yes,home,middle,bad,bad,no,no,yes,yes,yes,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+16,male,high school,village,joint family,guardian,yes,home,lower,good,good,yes,no,no,no,no,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,doesn't use,no,yes,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,doesn't use,no,no,no,no
+16,female,high school,city,nuclear family,guardian,yes,home,upper,good,good,no,yes,yes,no,yes,no,no,bad,yes,no,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,yes
+17,male,never went to school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,college,city,nuclear family,guardian,no,home,middle,good,good,yes,no,no,no,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,extreme,yes,no,no,no
+17,female,college,city,broken family,none,yes,home,middle,good,good,no,yes,yes,no,yes,no,yes,bad,no,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,bad,no,yes,yes,yes,yes,no,no,bad,yes,no,by playing/watching tv/travelling with family & friends,yes,yes,yes,yes,average,yes,yes,no,no
+16,male,never went to school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,no,good,yes,no,spending time by taking drugs,yes,no,no,no,average,no,no,no,yes
+17,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,yes,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,yes,yes,bad,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,yes,average,no,yes,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,yes,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,somehow,no,no,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,average,yes,yes,no,no
+17,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,yes,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,average,no,no,no,no
+18,male,college,village,joint family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,yes,yes,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,yes,yes
+18,female,college,city,nuclear family,guardian,no,home,middle,good,good,somehow,no,yes,yes,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+18,female,college,city,broken family,maid servant,yes,home,middle,good,bad,yes,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,no,no,no,average,no,no,no,no
+18,male,college,village,joint family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,male,after S.S.C,city,broken family,maid servant,yes,home,middle,bad,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,male,college,village,nuclear family,guardian,yes,home,middle,good,good,no,no,no,no,yes,yes,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,no,yes,no,no
+17,male,after S.S.C,village,nuclear family,guardian,yes,home,middle,good,good,yes,yes,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,no,no,no,average,yes,no,no,no
+18,female,college,city,joint family,guardian,no,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,yes,no,no
+15,male,high school,city,nuclear family,guardian,no,slum,lower,bad,no relation,no,yes,yes,yes,yes,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+15,female,after S.S.C,village,nuclear family,guardian,yes,home,upper,good,bad,no,no,yes,yes,yes,yes,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,no,yes
+16,male,after S.S.C,city,broken family,maid servant,no,home,upper,no relation,bad,no,no,yes,no,yes,no,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+16,male,after S.S.C,city,broken family,guardian,yes,home,upper,bad,good,yes,yes,yes,yes,yes,no,no,bad,no,no,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+15,male,high school,city,nuclear family,maid servant,no,home,upper,bad,bad,yes,yes,yes,yes,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+15,female,after S.S.C,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,no,no,no,no
+14,female,high school,city,broken family,maid servant,yes,home,upper,no relation,bad,no,no,yes,no,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+18,male,after S.S.C,city,broken family,maid servant,yes,home,upper,bad,bad,no,yes,yes,yes,yes,yes,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,no,yes,no,yes,good,yes,yes,spending time by taking drugs,yes,no,no,no,average,yes,no,no,no
+18,male,college,village,nuclear family,guardian,yes,home,lower,good,bad,no,yes,yes,yes,yes,yes,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,yes,yes,yes
+14,male,high school,village,joint family,guardian,yes,home,middle,good,bad,no,no,yes,no,no,no,yes,bad,yes,yes,spending time by taking drugs,yes,no,no,no,average,yes,no,yes,yes
+13,male,high school,city,broken family,guardian,yes,home,upper,bad,good,somehow,yes,yes,yes,yes,yes,no,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+13,male,high school,city,nuclear family,maid servant,yes,home,upper,bad,bad,yes,no,yes,yes,yes,no,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,no,yes,no,yes
+13,male,never went to school,city,no family,none,yes,slum,lower,good,bad,somehow,no,no,no,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+13,female,high school,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+13,female,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,no,no,no,average,yes,no,no,no
+15,female,after S.S.C,city,nuclear family,guardian,no,home,middle,good,good,somehow,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+15,female,after S.S.C,city,joint family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,yes,yes,good,no,no,by playing/watching tv/travelling with family & friends,no,no,yes,yes,extreme,no,no,no,no
+17,female,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,yes,no,no,average,yes,no,no,no
+16,male,never went to school,city,nuclear family,guardian,no,slum,working,bad,bad,somehow,no,no,yes,no,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+15,male,high school,city,nuclear family,guardian,no,slum,lower,bad,no relation,somehow,yes,yes,yes,no,no,yes,bad,yes,yes,spending time by taking drugs,no,no,yes,no,average,yes,yes,yes,yes
+15,female,after S.S.C,city,nuclear family,guardian,yes,home,upper,good,bad,no,no,yes,no,yes,yes,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,no,yes
+16,male,after S.S.C,city,broken family,maid servant,yes,home,upper,no relation,bad,no,yes,yes,yes,yes,no,yes,bad,yes,no,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,yes
+18,male,college,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,yes,yes,no,no,good,yes,yes,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+18,female,college,city,nuclear family,maid servant,no,home,middle,good,good,yes,no,yes,no,yes,no,yes,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,average,no,no,no,no
+16,female,college,city,nuclear family,guardian,yes,home,upper,good,bad,no,yes,yes,yes,yes,no,no,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+14,female,high school,city,nuclear family,maid servant,no,home,upper,good,bad,yes,no,yes,yes,yes,yes,yes,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,average,no,yes,no,yes
+18,female,college,village,broken family,maid servant,yes,home,upper,good,bad,no,no,yes,yes,yes,yes,yes,bad,no,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,female,college,city,broken family,guardian,no,home,middle,bad,bad,no,yes,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,no,extreme,yes,yes,no,no
+17,male,high school,city,nuclear family,guardian,no,slum,lower,bad,bad,somehow,no,no,no,no,no,no,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,no,yes,yes,yes
+16,male,after S.S.C,village,broken family,guardian,yes,home,middle,no relation,good,no,yes,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,yes,yes
+13,male,never went to school,city,no family,none,no,slum,working,bad,bad,somehow,no,no,no,no,yes,yes,good,no,yes,spending time by taking drugs,yes,yes,yes,yes,doesn't use,no,no,no,no
+13,male,never went to school,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,no,no,no,yes,no,bad,yes,yes,by playing/watching tv/travelling with family & friends,yes,no,no,yes,doesn't use,no,yes,no,no
+15,male,high school,city,joint family,guardian,yes,home,middle,good,good,yes,no,yes,yes,yes,no,no,bad,yes,yes,spending time by taking drugs,no,yes,yes,no,average,no,yes,yes,yes
+14,male,never went to school,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,no,no,no,yes,no,bad,yes,yes,by playing/watching tv/travelling with family & friends,no,no,no,yes,average,yes,yes,no,no
+14,male,high school,city,joint family,guardian,yes,home,middle,good,good,no,no,yes,yes,yes,no,yes,good,yes,yes,spending time by taking drugs,no,yes,yes,no,average,no,yes,yes,yes
+17,female,college,city,nuclear family,guardian,yes,home,middle,good,good,no,no,yes,no,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,yes,no,no,extreme,yes,no,no,no
+17,male,college,village,nuclear family,guardian,yes,home,middle,good,good,no,yes,yes,yes,no,no,no,bad,no,no,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,no,yes
+15,male,high school,city,nuclear family,guardian,yes,home,middle,bad,bad,no,no,yes,no,no,yes,yes,bad,yes,yes,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,extreme,yes,yes,yes,yes
+17,male,after S.S.C,city,nuclear family,guardian,yes,home,upper,good,bad,no,no,yes,yes,yes,no,no,bad,no,no,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,yes
+16,male,college,city,nuclear family,guardian,yes,home,upper,good,good,yes,yes,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,yes,yes,yes,no
+17,male,college,village,nuclear family,guardian,no,home,middle,good,good,yes,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,yes,yes,no,no
+17,male,college,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+14,male,college,city,nuclear family,guardian,no,home,upper,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+14,female,high school,city,broken family,maid servant,yes,home,upper,good,bad,no,yes,yes,no,yes,no,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,female,college,city,broken family,guardian,yes,home,upper,bad,bad,no,no,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,no,extreme,yes,yes,no,yes
+17,male,never went to school,village,nuclear family,guardian,no,slum,lower,bad,bad,somehow,no,no,no,no,no,no,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,no,yes,yes,no
+16,male,college,city,broken family,guardian,yes,home,middle,no relation,good,somehow,yes,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,no,no,yes,yes,extreme,no,yes,yes,yes
+16,male,never went to school,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,yes,no,no,yes,yes,good,yes,yes,spending time by taking drugs,yes,yes,yes,yes,doesn't use,no,no,no,yes
+13,male,never went to school,village,no family,none,no,home,working,no relation,no relation,yes,no,no,no,no,yes,no,good,no,yes,by playing/watching tv/travelling with family & friends,no,no,no,yes,doesn't use,no,yes,no,no
+14,female,high school,city,joint family,guardian,yes,home,middle,good,good,no,yes,yes,yes,yes,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,no,no,average,no,yes,yes,yes
+15,male,after S.S.C,city,broken family,guardian,yes,home,middle,no relation,bad,yes,yes,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,no,no,yes,yes,extreme,no,yes,yes,yes
+14,male,never went to school,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,no,no,no,yes,yes,good,yes,yes,spending time by taking drugs,yes,yes,yes,yes,doesn't use,no,no,no,no
+15,male,never went to school,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,good,somehow,no,no,no,no,yes,no,bad,yes,yes,by playing/watching tv/travelling with family & friends,no,no,yes,yes,doesn't use,no,no,no,no
+16,male,high school,village,joint family,guardian,yes,home,middle,good,good,no,no,yes,yes,yes,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,no,average,no,yes,yes,yes
+15,female,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,extreme,yes,yes,no,no
+17,male,college,village,nuclear family,guardian,yes,home,middle,good,good,yes,yes,yes,yes,no,no,no,bad,no,no,spending time by taking drugs,no,yes,no,yes,average,yes,yes,no,no
+15,male,high school,city,joint family,guardian,yes,home,middle,bad,bad,no,no,yes,no,no,yes,yes,good,no,yes,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,city,joint family,guardian,yes,home,upper,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+14,female,never went to school,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,no,no,yes,yes,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+17,male,after S.S.C,city,broken family,guardian,yes,home,middle,good,good,yes,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,extreme,yes,no,no,no
+17,male,after S.S.C,city,broken family,maid servant,no,home,lower,bad,bad,somehow,yes,yes,no,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+16,male,high school,village,joint family,guardian,yes,home,lower,good,good,yes,no,no,no,no,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,doesn't use,no,yes,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,yes,average,yes,no,no,no
+16,male,high school,city,no family,guardian,no,home,upper,good,good,yes,no,yes,no,yes,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,yes,yes,yes,no,average,yes,yes,no,no
+16,female,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,yes,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,high school,village,joint family,guardian,yes,home,middle,good,good,yes,no,yes,yes,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,average,yes,no,no,no
+17,male,high school,city,nuclear family,guardian,yes,home,middle,good,bad,yes,no,no,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,yes,yes,yes,average,yes,yes,no,yes
+14,male,high school,village,nuclear family,guardian,no,home,upper,good,good,yes,no,yes,no,yes,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,yes,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,yes,no,no,yes,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+15,male,high school,village,joint family,guardian,yes,home,middle,good,good,no,yes,no,no,yes,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,no,average,no,yes,yes,yes
+17,female,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,extreme,yes,no,no,no
+15,male,after S.S.C,city,broken family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,extreme,yes,no,no,no
+17,male,after S.S.C,city,broken family,maid servant,no,home,lower,bad,bad,somehow,no,yes,no,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+16,male,high school,village,joint family,guardian,yes,home,lower,good,good,no,yes,yes,no,no,yes,no,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,doesn't use,no,yes,no,yes
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,spending time by taking drugs,yes,no,no,yes,average,yes,no,no,no
+16,male,high school,city,no family,guardian,no,home,upper,good,good,no,no,yes,yes,yes,no,yes,bad,yes,yes,spending time by taking drugs,yes,yes,yes,no,average,yes,yes,no,yes
+16,female,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,yes,no,no
+17,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,no,yes,yes,yes,no,no,yes,bad,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,average,yes,no,yes,yes
+17,male,high school,city,nuclear family,guardian,yes,slum,middle,good,bad,no,no,yes,no,yes,yes,no,bad,yes,no,spending time by taking drugs,yes,yes,yes,yes,average,yes,yes,no,yes
+14,male,high school,village,nuclear family,guardian,no,home,upper,good,good,yes,yes,yes,yes,yes,yes,no,bad,yes,yes,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,no,yes,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,no,yes,yes,no,yes,no,no,good,no,no,spending time by taking drugs,yes,yes,yes,no,average,no,no,yes,yes
+15,female,after S.S.C,city,joint family,guardian,no,home,middle,good,good,no,no,yes,yes,yes,no,yes,bad,no,yes,spending time by taking drugs,no,yes,yes,no,average,no,yes,no,no
+17,female,college,city,nuclear family,guardian,yes,home,middle,good,good,somehow,yes,yes,yes,no,no,yes,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,extreme,yes,no,no,yes
+13,male,high school,city,no family,none,no,slum,lower,bad,no relation,somehow,no,no,no,no,no,yes,bad,no,yes,by playing/watching tv/travelling with family & friends,yes,yes,yes,no,average,no,no,no,no
+13,male,high school,village,nuclear family,guardian,yes,home,middle,good,bad,no,yes,yes,yes,no,yes,no,bad,yes,no,spending time by taking drugs,no,no,no,no,doesn't use,no,no,no,yes
+15,male,high school,city,nuclear family,none,no,home,lower,good,good,somehow,no,yes,yes,no,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,city,joint family,guardian,yes,home,middle,good,bad,no,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,yes
+16,male,after S.S.C,city,nuclear family,none,no,home,middle,good,good,yes,no,no,no,no,yes,yes,good,no,yes,by playing/watching tv/travelling with family & friends,no,yes,no,no,average,no,yes,no,no
+15,male,never went to school,city,joint family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,no,no,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,doesn't use,yes,yes,yes,yes
+17,male,after S.S.C,city,broken family,maid servant,yes,home,upper,bad,bad,yes,yes,yes,yes,yes,yes,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,village,nuclear family,guardian,no,home,middle,good,good,yes,no,no,no,yes,no,no,good,no,yes,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,yes,no
+15,male,after S.S.C,village,nuclear family,guardian,yes,home,lower,good,good,no,yes,yes,yes,no,yes,no,good,no,no,spending time by taking drugs,yes,no,yes,no,average,yes,yes,yes,yes
+16,male,high school,village,broken family,guardian,no,home,middle,bad,bad,no,no,yes,no,yes,no,yes,bad,yes,yes,spending time by taking drugs,yes,no,no,no,average,yes,no,yes,yes
+14,male,after S.S.C,city,joint family,guardian,yes,slum,middle,good,good,somehow,yes,yes,yes,no,no,yes,bad,yes,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,yes,yes
+16,male,after S.S.C,village,nuclear family,guardian,yes,home,lower,bad,bad,no,yes,yes,no,yes,yes,no,bad,yes,yes,spending time by taking drugs,yes,no,yes,no,average,yes,no,no,no
+17,male,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,no,no,yes,yes,no,no,yes,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,average,no,no,yes,yes
+15,male,after S.S.C,village,joint family,guardian,no,home,lower,good,good,no,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,extreme,no,no,yes,yes
+15,male,high school,city,nuclear family,guardian,no,home,middle,bad,bad,no,no,yes,yes,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,city,joint family,guardian,yes,home,upper,good,good,no,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,average,no,no,yes,no
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,bad,somehow,no,yes,yes,no,yes,yes,bad,no,no,spending time by taking drugs,yes,yes,yes,no,average,no,no,no,yes
+16,male,high school,city,nuclear family,guardian,yes,slum,lower,bad,good,yes,yes,yes,yes,yes,yes,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,no,yes,yes,no
+17,male,high school,city,nuclear family,guardian,no,home,middle,good,bad,no,no,yes,no,yes,no,yes,bad,yes,no,spending time by taking drugs,yes,no,yes,no,average,no,no,no,yes
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,no,yes,yes,yes,no,no,yes,bad,no,yes,spending time by taking drugs,yes,no,yes,yes,average,yes,no,yes,yes
+14,male,high school,city,no family,none,no,slum,lower,bad,no relation,somehow,no,no,no,no,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+15,male,high school,village,nuclear family,guardian,yes,home,middle,good,bad,no,yes,yes,yes,no,no,no,good,no,no,spending time by taking drugs,no,no,no,no,doesn't use,no,no,yes,yes
+15,male,high school,city,nuclear family,none,no,home,lower,good,no relation,somehow,yes,yes,yes,yes,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+18,male,college,city,joint family,guardian,yes,home,middle,good,good,no,no,yes,no,no,yes,no,bad,yes,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,yes
+16,male,high school,city,joint family,guardian,yes,home,upper,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+15,male,high school,city,nuclear family,guardian,no,slum,lower,good,bad,no,no,no,yes,no,yes,yes,good,no,no,spending time by taking drugs,yes,yes,yes,no,average,no,no,yes,yes
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,yes,no,yes,no,no,good,yes,yes,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,no,yes,no,no
+17,male,college,city,nuclear family,guardian,yes,slum,middle,good,good,no,yes,yes,no,yes,no,no,bad,yes,no,spending time by taking drugs,yes,no,no,no,average,no,no,no,yes
+16,female,college,city,nuclear family,maid servant,no,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,average,no,no,no,no
+16,female,college,city,nuclear family,guardian,yes,home,lower,good,bad,no,yes,yes,no,yes,no,no,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+14,female,high school,city,nuclear family,maid servant,no,home,upper,good,bad,no,no,yes,yes,no,yes,yes,bad,yes,no,by playing/watching tv/travelling with family & friends,no,no,yes,yes,average,no,yes,yes,yes
+13,female,high school,village,broken family,maid servant,yes,home,upper,good,bad,no,yes,yes,no,yes,yes,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,female,college,city,broken family,guardian,yes,home,middle,good,bad,yes,yes,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,no,extreme,yes,yes,no,yes
+17,male,high school,city,nuclear family,guardian,no,slum,lower,bad,bad,somehow,no,yes,no,no,yes,no,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,no,yes,no,no
+16,male,after S.S.C,village,broken family,guardian,yes,home,middle,no relation,good,no,yes,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,yes,yes
+13,male,never went to school,city,no family,none,no,slum,working,bad,bad,somehow,no,no,no,no,yes,yes,good,yes,yes,spending time by taking drugs,yes,yes,yes,yes,doesn't use,no,no,no,no
+13,male,never went to school,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,yes,no,no,yes,no,bad,yes,yes,by playing/watching tv/travelling with family & friends,yes,no,no,yes,doesn't use,no,yes,no,no
+15,male,high school,city,joint family,guardian,no,home,middle,good,bad,yes,yes,yes,yes,yes,no,no,good,yes,yes,spending time by taking drugs,no,yes,yes,no,average,no,yes,yes,yes
+14,male,never went to school,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,no,no,no,yes,no,good,no,yes,by playing/watching tv/travelling with family & friends,no,no,no,yes,average,yes,yes,no,no
+15,male,high school,city,nuclear family,guardian,no,slum,lower,bad,no relation,somehow,yes,yes,no,no,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+15,female,after S.S.C,village,nuclear family,guardian,yes,home,upper,good,bad,no,yes,yes,no,yes,yes,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,no,yes
+16,male,after S.S.C,city,broken family,maid servant,no,home,middle,no relation,bad,no,no,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,after S.S.C,city,broken family,guardian,yes,home,upper,bad,good,no,no,yes,no,yes,no,no,bad,no,no,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+15,male,high school,city,nuclear family,maid servant,no,home,upper,bad,bad,no,yes,yes,yes,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+15,female,after S.S.C,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,doesn't use,no,no,no,no
+14,female,high school,city,broken family,maid servant,no,home,upper,no relation,no relation,no,no,yes,yes,no,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,after S.S.C,city,broken family,maid servant,no,home,upper,bad,bad,no,no,yes,no,no,yes,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,yes,yes,no,yes,good,no,yes,by playing/watching tv/travelling with family & friends,yes,yes,yes,no,average,yes,no,no,no
+17,male,college,village,nuclear family,guardian,yes,home,lower,good,good,somehow,no,yes,yes,no,no,yes,good,no,no,spending time by taking drugs,yes,no,no,no,average,yes,yes,no,yes
+14,male,high school,village,joint family,guardian,no,home,middle,good,good,yes,no,no,no,no,yes,yes,good,no,yes,by playing/watching tv/travelling with family & friends,yes,no,yes,no,extreme,yes,no,yes,no
+14,male,college,city,joint family,guardian,no,home,middle,good,good,no,no,yes,no,no,no,no,good,no,no,spending time by taking drugs,yes,no,no,no,extreme,no,yes,yes,yes
+15,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,college,village,joint family,guardian,yes,home,middle,good,good,no,yes,yes,no,yes,no,yes,bad,yes,no,spending time by taking drugs,yes,yes,yes,no,extreme,yes,no,yes,yes
+16,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,average,no,yes,no,no
+15,male,high school,city,nuclear family,guardian,no,home,middle,good,bad,no,yes,yes,no,yes,no,no,bad,yes,no,spending time by taking drugs,yes,yes,no,no,average,yes,yes,no,yes
+17,male,college,city,nuclear family,guardian,yes,home,upper,good,good,no,yes,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,yes,no,no,no,extreme,yes,no,no,yes
+16,male,college,city,nuclear family,guardian,yes,home,middle,good,good,somehow,no,yes,yes,yes,no,yes,bad,yes,no,by playing/watching tv/travelling with family & friends,yes,yes,yes,no,average,no,no,yes,yes
+14,male,high school,city,nuclear family,guardian,yes,home,upper,bad,bad,no,yes,yes,no,yes,no,yes,bad,yes,no,spending time by taking drugs,no,no,no,no,extreme,no,no,no,no
+14,female,high school,village,nuclear family,guardian,yes,home,middle,good,good,no,no,yes,yes,no,no,yes,good,no,no,spending time by taking drugs,no,no,no,no,extreme,yes,no,no,yes
+14,male,high school,city,nuclear family,maid servant,yes,home,upper,good,bad,yes,yes,yes,yes,yes,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,no,yes,yes,no,extreme,no,yes,no,no
+17,male,after S.S.C,city,nuclear family,maid servant,yes,home,upper,bad,bad,no,no,yes,yes,yes,no,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,female,high school,city,nuclear family,maid servant,yes,home,upper,bad,bad,no,no,yes,no,no,yes,yes,bad,no,yes,spending time by taking drugs,no,no,no,yes,extreme,yes,yes,no,no
+15,male,never went to school,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,no,no,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+16,female,after S.S.C,city,broken family,guardian,yes,home,middle,good,good,yes,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,yes,no,no,no
+17,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,yes,no,no,good,no,no,spending time by taking drugs,no,no,no,no,average,no,no,no,no
+17,female,after S.S.C,village,joint family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,college,village,nuclear family,maid servant,yes,home,middle,good,good,no,yes,yes,yes,no,no,yes,bad,yes,no,spending time by taking drugs,yes,yes,yes,no,average,no,yes,no,yes
+17,male,college,village,nuclear family,guardian,yes,home,middle,good,good,yes,yes,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,yes,yes,no
+17,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,after S.S.C,city,nuclear family,guardian,yes,home,upper,good,bad,no,yes,yes,no,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+16,male,after S.S.C,city,broken family,guardian,yes,home,upper,bad,good,no,yes,yes,yes,yes,no,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+17,male,after S.S.C,city,nuclear family,maid servant,yes,home,upper,good,good,somehow,no,yes,yes,yes,no,no,bad,yes,no,spending time by taking drugs,no,no,yes,yes,average,yes,yes,no,yes
+17,male,after S.S.C,city,broken family,guardian,no,home,upper,bad,bad,yes,no,no,no,yes,no,yes,good,no,no,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,no
+16,male,college,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+14,female,high school,city,nuclear family,guardian,yes,home,upper,good,good,no,yes,yes,no,no,no,yes,bad,yes,no,spending time by taking drugs,no,yes,no,yes,extreme,yes,no,yes,yes
+16,female,college,village,nuclear family,maid servant,yes,home,upper,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+15,male,college,city,nuclear family,guardian,no,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,spending time by taking drugs,yes,no,no,no,average,yes,no,yes,no
+16,male,high school,village,nuclear family,guardian,yes,home,middle,good,good,no,yes,yes,no,yes,no,yes,good,yes,yes,spending time by taking drugs,yes,yes,no,yes,average,yes,no,yes,yes
+17,male,after S.S.C,village,nuclear family,guardian,yes,home,lower,good,good,yes,yes,yes,yes,no,yes,no,good,no,no,spending time by taking drugs,no,no,yes,no,average,yes,yes,yes,yes
+16,female,high school,city,nuclear family,guardian,yes,home,middle,bad,good,no,no,yes,yes,yes,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,no,yes,yes
+16,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,yes,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,average,no,yes,no,no
+15,male,high school,city,broken family,maid servant,yes,home,middle,good,good,no,yes,yes,yes,no,no,no,bad,yes,no,spending time by taking drugs,yes,yes,no,no,average,yes,yes,yes,yes
+17,male,college,city,nuclear family,guardian,yes,home,upper,bad,bad,no,yes,yes,no,yes,no,no,bad,yes,no,spending time by taking drugs,no,no,no,no,average,yes,no,no,yes
+16,male,college,city,broken family,maid servant,yes,home,middle,bad,bad,somehow,no,yes,yes,no,yes,yes,good,no,no,spending time by taking drugs,no,no,yes,no,average,no,no,no,yes
+14,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,no,yes,yes,no,yes,no,no,bad,yes,no,spending time by taking drugs,no,yes,no,no,extreme,yes,no,no,yes
+16,female,college,village,joint family,guardian,yes,home,middle,good,bad,no,yes,yes,yes,no,no,no,bad,yes,no,by playing/watching tv/travelling with family & friends,yes,yes,yes,no,extreme,yes,no,no,yes
+14,male,high school,village,nuclear family,maid servant,yes,home,upper,good,bad,yes,no,no,no,yes,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,no,no,yes,no,extreme,no,yes,no,no
+17,male,after S.S.C,city,broken family,none,yes,home,middle,bad,bad,no,no,yes,no,no,yes,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,female,after S.S.C,city,nuclear family,maid servant,yes,home,upper,bad,bad,no,yes,yes,no,yes,yes,yes,bad,yes,yes,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,yes
+14,male,never went to school,city,no family,none,no,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,yes,yes,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+16,female,after S.S.C,village,broken family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,yes,extreme,yes,yes,no,no
+17,female,college,city,nuclear family,guardian,yes,home,upper,good,good,no,no,yes,yes,yes,no,no,good,no,no,spending time by taking drugs,no,no,no,no,average,no,no,yes,yes
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,no,yes,yes,no,no,no,no,bad,yes,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,yes
+17,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,no,yes,yes,yes,no,yes,yes,bad,yes,no,spending time by taking drugs,yes,no,yes,yes,average,yes,yes,no,yes
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,bad,no,yes,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,yes,yes,no,yes,average,no,no,yes,yes
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,no,no,yes,no,yes,no,no,bad,no,no,spending time by taking drugs,no,yes,no,no,average,yes,yes,no,yes
+17,male,high school,city,nuclear family,guardian,yes,home,upper,good,bad,no,no,yes,no,yes,no,no,bad,yes,no,by playing/watching tv/travelling with family & friends,no,no,no,no,average,no,no,no,yes
+16,male,high school,city,nuclear family,guardian,yes,home,upper,bad,good,no,yes,no,yes,yes,yes,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+17,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,yes,yes,yes,yes,no,no,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+17,male,after S.S.C,village,nuclear family,guardian,yes,home,upper,good,bad,yes,yes,yes,yes,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+17,female,high school,city,nuclear family,guardian,no,home,upper,good,good,somehow,no,yes,no,yes,no,no,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+13,male,high school,village,nuclear family,guardian,yes,slum,middle,good,bad,no,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,no,no,no,doesn't use,no,no,no,yes
+15,male,high school,city,nuclear family,none,no,home,lower,good,no relation,somehow,no,yes,no,no,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,city,joint family,guardian,yes,home,middle,good,good,no,yes,yes,yes,no,yes,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,yes
+16,male,after S.S.C,city,nuclear family,none,no,home,middle,good,good,no,no,no,no,yes,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,no,no,average,no,yes,no,no
+15,male,never went to school,city,joint family,none,yes,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,yes,no,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,doesn't use,yes,yes,yes,yes
+17,male,after S.S.C,city,broken family,maid servant,yes,home,upper,bad,bad,no,no,yes,yes,yes,yes,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,yes,no,yes,good,no,yes,spending time by taking drugs,yes,no,no,no,average,yes,no,yes,no
+18,male,after S.S.C,village,nuclear family,guardian,yes,home,lower,good,good,no,yes,yes,yes,no,yes,no,bad,no,no,spending time by taking drugs,yes,no,yes,no,average,yes,yes,yes,yes
+16,male,high school,village,nuclear family,guardian,yes,home,middle,bad,bad,no,no,yes,no,yes,no,yes,bad,yes,yes,spending time by taking drugs,yes,no,no,no,average,yes,no,yes,yes
+16,male,after S.S.C,city,joint family,guardian,yes,slum,middle,good,good,no,yes,yes,no,no,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,yes
+15,male,after S.S.C,village,nuclear family,guardian,yes,home,lower,bad,bad,somehow,no,yes,no,yes,yes,no,good,yes,yes,spending time by taking drugs,yes,no,yes,no,average,yes,no,no,yes
+17,male,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,no,no,yes,yes,no,no,yes,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,average,no,no,yes,yes
+16,male,high school,city,nuclear family,guardian,no,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,yes,no,no
+14,male,college,city,nuclear family,guardian,yes,home,upper,good,good,no,no,yes,no,yes,no,no,bad,yes,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,yes
+16,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,average,no,no,no,no
+14,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,no,yes,yes,no,yes,no,no,bad,yes,no,spending time by taking drugs,no,no,no,no,extreme,no,no,no,yes
+14,female,high school,village,nuclear family,guardian,yes,home,middle,good,good,no,no,yes,no,no,yes,no,bad,yes,no,spending time by taking drugs,no,no,no,no,extreme,no,no,no,yes
+14,male,high school,city,nuclear family,maid servant,yes,home,upper,bad,bad,somehow,no,yes,yes,no,no,yes,good,no,no,spending time by taking drugs,no,no,yes,no,extreme,no,yes,no,yes
+17,male,after S.S.C,city,nuclear family,guardian,yes,home,upper,bad,bad,no,yes,yes,yes,no,yes,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+14,female,high school,city,nuclear family,maid servant,yes,home,upper,bad,bad,no,yes,yes,no,yes,yes,no,bad,yes,yes,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,yes
+14,male,never went to school,city,no family,none,yes,homeless (rail-station/ roadside),working,no relation,no relation,somehow,no,no,no,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+15,female,after S.S.C,city,broken family,guardian,yes,home,lower,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,yes,no,no,no
+16,female,high school,village,nuclear family,guardian,no,home,middle,good,good,yes,no,yes,yes,yes,no,yes,bad,yes,yes,spending time by taking drugs,yes,no,no,no,average,yes,no,yes,no
+13,male,high school,village,nuclear family,guardian,yes,home,lower,good,good,no,yes,yes,no,no,no,no,good,yes,no,by playing/watching tv/travelling with family & friends,yes,yes,yes,no,average,yes,yes,yes,yes
+16,male,high school,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,yes,yes,no,yes,bad,yes,yes,spending time by taking drugs,yes,no,yes,no,average,yes,no,yes,no
+15,male,after S.S.C,city,joint family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,yes,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,doesn't use,no,no,no,no
+16,female,high school,city,broken family,none,yes,home,upper,good,good,yes,no,no,yes,yes,no,no,bad,yes,no,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,yes
+17,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,yes,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,college,city,nuclear family,guardian,no,home,middle,good,good,yes,no,no,yes,no,no,yes,bad,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,extreme,yes,no,no,no
+17,female,college,city,broken family,guardian,yes,home,middle,good,good,yes,yes,yes,no,yes,no,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,no,no,yes,yes,yes,no,no,bad,yes,no,by playing/watching tv/travelling with family & friends,yes,yes,yes,yes,average,yes,yes,yes,yes
+16,male,high school,city,nuclear family,maid servant,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,high school,city,nuclear family,maid servant,yes,home,upper,good,good,yes,yes,yes,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,yes,no,yes,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,yes,average,no,yes,no,no
+16,female,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,extreme,yes,yes,no,no
+17,male,college,village,nuclear family,guardian,yes,home,middle,good,good,no,yes,yes,no,no,no,no,bad,no,no,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,no,yes
+15,male,high school,city,joint family,guardian,yes,home,middle,bad,bad,no,no,yes,no,no,yes,yes,bad,yes,yes,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,city,joint family,guardian,yes,home,upper,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+15,female,after S.S.C,city,no family,none,no,home,working,no relation,no relation,no,yes,no,no,yes,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,yes,yes
+16,male,after S.S.C,city,broken family,guardian,yes,home,middle,good,good,yes,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,extreme,yes,no,no,no
+17,male,after S.S.C,city,broken family,maid servant,no,home,lower,bad,bad,somehow,no,no,yes,no,yes,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,village,joint family,guardian,yes,home,lower,good,good,yes,no,no,no,no,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,doesn't use,no,yes,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,yes,average,yes,no,no,no
+16,male,high school,city,no family,guardian,no,home,upper,good,good,yes,yes,no,no,yes,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,yes,yes,yes,no,average,yes,yes,no,no
+16,female,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,average,yes,no,no,no
+17,male,high school,city,nuclear family,guardian,yes,home,middle,good,bad,no,yes,yes,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,yes,yes,yes,average,yes,yes,yes,yes
+14,male,high school,village,nuclear family,guardian,no,home,upper,good,good,yes,no,no,no,yes,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,yes,no,no
+15,female,after S.S.C,city,joint family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,yes,yes,good,no,no,by playing/watching tv/travelling with family & friends,no,no,yes,yes,extreme,no,no,no,no
+17,female,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,yes,no,no,average,yes,no,yes,no
+16,male,never went to school,city,nuclear family,guardian,no,slum,working,good,bad,somehow,no,yes,no,no,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+15,male,high school,city,nuclear family,guardian,no,slum,lower,bad,no relation,somehow,yes,yes,yes,no,no,yes,bad,yes,yes,spending time by taking drugs,no,no,no,no,average,yes,yes,yes,yes
+15,female,after S.S.C,city,nuclear family,guardian,yes,home,upper,bad,bad,no,yes,yes,yes,yes,yes,yes,bad,no,no,spending time by taking drugs,no,yes,yes,yes,average,yes,yes,no,yes
+16,male,after S.S.C,city,broken family,maid servant,yes,home,upper,good,bad,no,no,yes,no,yes,no,yes,bad,no,no,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,yes
+18,male,college,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,yes,yes,no,no,good,yes,yes,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+18,female,college,city,nuclear family,maid servant,no,home,middle,good,good,yes,no,yes,yes,no,no,yes,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,average,no,no,no,no
+16,male,high school,village,joint family,guardian,yes,home,lower,good,good,yes,yes,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,doesn't use,no,yes,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,doesn't use,no,no,no,no
+16,female,high school,city,nuclear family,guardian,yes,home,upper,good,good,no,yes,yes,no,yes,no,no,bad,yes,no,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,yes
+17,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,college,city,nuclear family,guardian,no,home,middle,good,good,yes,no,no,yes,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,extreme,yes,no,no,no
+17,female,college,city,broken family,guardian,yes,home,middle,good,good,no,yes,no,yes,yes,no,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,no,yes,yes,yes,yes,no,no,bad,no,no,by playing/watching tv/travelling with family & friends,yes,yes,yes,yes,average,yes,yes,yes,yes
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,yes,yes,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+18,male,after S.S.C,village,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,yes,no,no,good,yes,yes,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+18,male,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,yes,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,average,no,no,no,no
+18,male,after S.S.C,village,joint family,guardian,no,home,lower,good,good,yes,yes,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,average,no,no,no,no
+15,male,high school,city,nuclear family,guardian,yes,home,middle,bad,bad,no,no,yes,yes,no,yes,yes,bad,yes,yes,by playing/watching tv/travelling with family & friends,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,city,joint family,guardian,yes,home,upper,good,good,yes,yes,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,bad,yes,no,yes,no,no,yes,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,yes,yes,no,average,no,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,yes,no,no
+17,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,yes,bad,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,male,after S.S.C,city,joint family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+18,male,after S.S.C,village,joint family,guardian,yes,home,middle,good,good,yes,no,yes,yes,yes,no,no,good,yes,yes,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+18,female,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,yes,bad,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,average,no,no,no,no
+18,male,after S.S.C,village,joint family,guardian,no,home,lower,good,good,yes,no,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,extreme,no,no,no,no
+16,male,high school,city,broken family,guardian,yes,home,upper,bad,good,somehow,no,yes,no,yes,no,no,bad,yes,yes,spending time by taking drugs,no,no,yes,yes,average,no,yes,no,yes
+17,male,after S.S.C,city,nuclear family,guardian,yes,home,upper,good,bad,no,no,yes,no,yes,no,no,bad,yes,no,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,yes,yes
+18,male,college,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,yes,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,yes,yes,no,no
+18,male,college,village,nuclear family,guardian,no,home,middle,good,good,yes,yes,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,yes,yes,no,no
+17,male,college,village,nuclear family,guardian,yes,home,middle,good,good,yes,yes,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,high school,city,nuclear family,guardian,no,home,middle,good,good,yes,yes,no,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,female,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,yes,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,extreme,yes,no,no,no
+17,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,no,yes,yes,no,yes,no,yes,bad,yes,yes,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,no,yes
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,no,yes,no,no,yes,no,no,bad,yes,no,spending time by taking drugs,yes,yes,yes,yes,average,yes,yes,yes,yes
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,female,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,bad,yes,no,no,yes,no,yes,yes,good,no,no,spending time by taking drugs,yes,yes,yes,yes,average,no,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,yes,yes,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,doesn't use,no,no,no,no
+16,female,high school,city,nuclear family,maid servant,yes,home,upper,bad,good,somehow,no,yes,no,yes,no,no,bad,yes,no,spending time by taking drugs,no,no,yes,yes,extreme,yes,yes,no,yes
+17,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,yes,no,no,average,no,no,no,no
+17,female,college,city,nuclear family,guardian,no,home,middle,good,good,yes,no,no,no,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,no
+17,male,after S.S.C,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,extreme,yes,no,no,no
+17,female,college,city,broken family,guardian,yes,home,middle,good,good,somehow,no,yes,no,yes,no,yes,bad,yes,no,spending time by taking drugs,no,yes,yes,yes,extreme,yes,yes,yes,yes
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,yes,yes,yes,yes,no,no,bad,yes,no,spending time by taking drugs,yes,yes,yes,yes,average,yes,yes,no,yes
+16,male,high school,city,nuclear family,maid servant,yes,home,middle,good,good,yes,yes,no,yes,no,no,no,good,yes,yes,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,no,no,no,yes
+17,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,no,no,no,yes,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+16,female,high school,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,yes,no,no,yes,yes,bad,no,no,spending time by taking drugs,yes,no,yes,yes,average,no,yes,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,upper,good,good,yes,no,no,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,extreme,no,no,no,no
+16,male,high school,city,nuclear family,guardian,yes,home,middle,good,good,somehow,yes,no,no,yes,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,yes,no,no,average,yes,yes,no,no
+17,male,college,city,nuclear family,guardian,yes,home,middle,good,good,yes,no,no,no,no,yes,no,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,yes,no,average,no,no,no,no
+16,male,college,village,joint family,guardian,yes,home,middle,good,good,yes,no,no,no,no,no,no,good,no,yes,spending time by taking drugs,yes,no,no,no,average,no,no,no,no
+16,female,college,city,nuclear family,guardian,no,home,middle,good,good,no,yes,no,no,no,no,yes,good,no,no,by playing/watching tv/travelling with family & friends,yes,no,no,no,average,yes,no,no,no
+17,female,college,city,broken family,maid servant,yes,home,middle,good,bad,yes,no,yes,yes,no,no,no,good,no,no,by playing/watching tv/travelling with family & friends,no,no,no,no,doesn't use,no,no,no,no
